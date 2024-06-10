@@ -9,7 +9,7 @@
 2. 拉取仓库安装并启动
 
 ```sh
-git clone https://github.com/Miura738/AuthNode.git
+git clone https://github.com/***/***.git
 cd AuthNode
 pip install -r requirements.txt
 uvicorn main:app --host 0.0.0.0 --port 80
